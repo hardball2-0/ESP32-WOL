@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer)
-- [WakeOnLan](https://github.com/koenieee/WakeOnLan)
+- [WakeOnLan](https://github.com/a7md0/WakeOnLan)
 
 Feel free to contribute, report issues, or suggest improvements!
 
