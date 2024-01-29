@@ -1,4 +1,4 @@
-# Wake-on-LAN Web Controller
+# ESP32 Wake-On-Lan server
 
 This project provides a simple web-based Wake-on-LAN (WOL) controller to remotely wake up your computer. It is implemented using the ESPAsyncWebServer library on an ESP32 or ESP8266 microcontroller.
 
